@@ -1,2 +1,2 @@
-import './hellowebpack' ;
-import '../css/style.css';
+import './hellowebpack';
+import '../css/style.scss';
